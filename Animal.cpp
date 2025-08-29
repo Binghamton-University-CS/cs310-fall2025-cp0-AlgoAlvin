@@ -1,5 +1,5 @@
 #include "Animal.h"
-
+#include <iostream>
 Animal::Animal(string speciesName, unsigned int discoveryYear) {
    species = speciesName;
    year_discovered = discoveryYear;
