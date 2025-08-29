@@ -1,5 +1,4 @@
-#ifndef ANIMALSINZOO_H
-#define ANIMALSINZOO_H
+#pragma once
 #include "Animal.h"
 
 class AnimalsInZoo{
@@ -11,4 +10,3 @@ class AnimalsInZoo{
 		Animal animal;
 		int numAnimals;
 };
-#endif
